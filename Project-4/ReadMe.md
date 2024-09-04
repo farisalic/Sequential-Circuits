@@ -9,5 +9,6 @@ The optical encoder uses the position change encoding mechanism described in the
 For the developed VHDL model, I wrote a testbench program that will determine the output of the system if the optical encoder is moved 5 steps CW, 3 steps CCW and 2 steps CW.
 
 <div align="center">
+<img src="https://github.com/user-attachments/assets/5a2962f7-036a-4654-9531-a6137e00fd61">
 ![Screenshot_1](https://github.com/user-attachments/assets/5a2962f7-036a-4654-9531-a6137e00fd61)
 </div>
