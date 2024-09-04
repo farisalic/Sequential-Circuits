@@ -10,5 +10,4 @@ For the developed VHDL model, I wrote a testbench program that will determine th
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/5a2962f7-036a-4654-9531-a6137e00fd61">
-![Screenshot_1](https://github.com/user-attachments/assets/5a2962f7-036a-4654-9531-a6137e00fd61)
 </div>
